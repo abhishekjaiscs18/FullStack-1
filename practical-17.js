@@ -4,7 +4,6 @@ const name1= document.getElementById("name");
 const day1=document.getElementById("day");
 
 
-
 name1.addEventListener("keypress",setName);
 name1.addEventListener("blur",setName);
 
